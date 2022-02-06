@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google Docs
+Path=~/googleshortcuts/
+Exec=python3 main.py https://docs.google.com/
+Terminal=false
+Icon=docslogo.jpg
+StartupNotify=true
+Name[en_US]=Google Docs
+StartupWMClass=resolve
